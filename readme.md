@@ -6,4 +6,5 @@
 [www.patika.dev](https://app.patika.dev/khanlion)
 
 # ***Patika.dev JS-Assignment-3-asian-kitchen***
-[<img alt="alt_text" width="720" height="auto" target= "_blank" src="./Capture.PNG" />](https://kaanarslan1990.github.io/patikadev-assg3-asiankitchen/)
+
+<a href="https://kaanarslan1990.github.io/patikadev-assg3-asiankitchen/" target="_blank" alt="asiankitcen"><img src="./Capture.PNG"></img></a>
